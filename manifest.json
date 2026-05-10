@@ -7,7 +7,7 @@
       "author": "St☆rlight Studios",
       "status": "Active",
       "description": "A sick manga that was made with ai in the beginnning, might get a handdrawn remake, idk.",
-      "cover": "content/duo-days/cover.svg",
+      "cover": "content/duo-days/cover.jpg",
       "chapters": [
         {
           "id": "chapter-1",
@@ -58,7 +58,32 @@
             "content/duo-days/chapter-6/002.jpg",
             "content/duo-days/chapter-6/003.jpg"
           ]
-        }
+        },
+        {
+          "id": "chapter-7",
+          "title": "Chapter 7 - Accidental Date",
+          "pages": [
+            "content/duo-days/chapter-7/001.jpg",
+            "content/duo-days/chapter-7/002.jpg"
+          ]
+        },
+        {
+          "id": "chapter-8",
+          "title": "Chapter 8 - Accidental Date",
+          "pages": [
+            "content/duo-days/chapter-8/001.jpg",
+            "content/duo-days/chapter-8/002.jpg"
+          ]
+        },
+        {
+          "id": "chapter-9",
+          "title": "Chapter 9 - Accidental Date",
+          "pages": [
+            "content/duo-days/chapter-9/001.jpg",
+            "content/duo-days/chapter-9/002.jpg",
+            "content/duo-days/chapter-9/003.jpg"
+          ]
+        },
       ]
     }
   ]

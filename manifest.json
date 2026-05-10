@@ -145,6 +145,20 @@
             "content/duo-force_zero-signal/chapter-1/003.jpg",
             "content/duo-force_zero-signal/chapter-1/004.jpg"
           ]
+        },
+        {
+          "id": "chapter-2",
+          "title": "CHAPTER 2 - THE KING OF THE BETWEEN",
+          "pages": [
+            "content/duo-force_zero-signal/chapter-2/001.jpg",
+            "content/duo-force_zero-signal/chapter-2/002.jpg",
+            "content/duo-force_zero-signal/chapter-2/003.jpg",
+            "content/duo-force_zero-signal/chapter-2/004.jpg",
+            "content/duo-force_zero-signal/chapter-2/005.jpg",
+            "content/duo-force_zero-signal/chapter-2/006.jpg",
+            "content/duo-force_zero-signal/chapter-2/007.jpg",
+            "content/duo-force_zero-signal/chapter-2/008.jpg"
+          ]
         }
       ]
     }

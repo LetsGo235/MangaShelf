@@ -31,6 +31,33 @@
             "content/duo-days/chapter-3/002.jpg",
             "content/duo-days/chapter-3/003.jpg"
           ]
+        },
+        {
+          "id": "chapter-4",
+          "title": "Chapter 4 - First Cracks",
+          "pages": [
+            "content/duo-days/chapter-4/001.jpg",
+            "content/duo-days/chapter-4/002.jpg",
+            "content/duo-days/chapter-4/003.jpg"
+          ]
+        },
+        {
+          "id": "chapter-5",
+          "title": "Chapter 5 - First Cracks",
+          "pages": [
+            "content/duo-days/chapter-5/001.jpg",
+            "content/duo-days/chapter-5/002.jpg",
+            "content/duo-days/chapter-5/003.jpg"
+          ]
+        },
+        {
+          "id": "chapter-6",
+          "title": "Chapter 6 - First Cracks",
+          "pages": [
+            "content/duo-days/chapter-6/001.jpg",
+            "content/duo-days/chapter-6/002.jpg",
+            "content/duo-days/chapter-6/003.jpg"
+          ]
         }
       ]
     }

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MangaShelf - Upload</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html">MangaShelf</a>
+    <nav>
+      <a href="index.html">Library</a>
+      <a href="setup.html">GitHub Setup</a>
+      <a href="upload.html">Local Upload</a>
+    </nav>
+  </header>
+
+  <main class="page narrow">
+    <section class="panel">
+      <p class="eyebrow">Chapter machine</p>
+      <h1>Add a new chapter</h1>
+      <p class="muted">Drop in your pages, save the chapter, then jump back to the shelf.</p>
+
+      <label>Series title</label>
+      <input id="mangaTitle" placeholder="Example: Duo Days" />
+
+      <label>Chapter name / number</label>
+      <input id="chapterName" placeholder="Example: 1 or Chapter 1 - The Gift" />
+
+      <label>Cover image (optional)</label>
+      <input id="coverInput" type="file" accept="image/*" />
+
+      <label>Manga page images</label>
+      <input id="pageInput" type="file" accept="image/*" multiple />
+      <p class="hint">Tip: name pages like 001.png, 002.png, 003.png so they appear in the right order.</p>
+
+      <div class="actions">
+        <button id="uploadBtn" class="button primary">Save Chapter</button>
+        <button id="clearFormBtn" class="button ghost">Clear Form</button>
+      </div>
+
+      <div id="status" class="status"></div>
+    </section>
+
+    <section class="panel danger-zone">
+      <h2>Danger corner</h2>
+      <p class="muted">This only deletes manga saved inside this browser.</p>
+      <button id="wipeBtn" class="button danger">Delete All Manga Data</button>
+    </section>
+  </main>
+
+  <script src="js/db.js"></script>
+  <script src="js/upload.js"></script>
+</body>
+</html>

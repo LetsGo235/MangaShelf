@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MangaShelf - Library</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html">MangaShelf</a>
+    <nav>
+      <a href="index.html">Library</a>
+      <a href="setup.html">GitHub Setup</a>
+      <a href="upload.html">Local Upload</a>
+    </nav>
+  </header>
+
+  <main class="page">
+    <section class="hero">
+      <div>
+        <p class="eyebrow">Manga clubhouse</p>
+        <h1>Read straight from GitHub.</h1>
+        <p>Upload manga pages to your repo, update manifest.json, and readers can open chapters immediately. No user upload needed.</p>
+      </div>
+      <a class="button primary" href="setup.html">How To Add Manga</a>
+    </section>
+
+    <div id="shelfNotice" class="notice">Loading shelf...</div>
+
+    <section class="toolbar">
+      <input id="searchInput" type="search" placeholder="Search manga..." />
+      <select id="sortSelect">
+        <option value="updated">Recently updated</option>
+        <option value="az">A-Z</option>
+        <option value="chapters">Most chapters</option>
+      </select>
+    </section>
+
+    <section id="emptyState" class="empty hidden">
+      <h2>Your shelf is empty.</h2>
+      <p>No manga found. Add titles to manifest.json or use the local uploader for testing.</p>
+      <a class="button" href="upload.html">Open uploader</a>
+    </section>
+
+    <section id="mangaGrid" class="grid"></section>
+  </main>
+
+  <script src="js/db.js"></script>
+  <script src="js/content.js"></script>
+  <script src="js/library.js"></script>
+</body>
+</html>

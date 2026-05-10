@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MangaShelf - Reader</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body class="reader-body">
+  <header class="topbar readerbar">
+    <a class="brand" href="index.html">MangaShelf</a>
+    <nav>
+      <select id="chapterSelect"></select>
+      <button id="prevChapter" class="mini">Prev</button>
+      <button id="nextChapter" class="mini">Next</button>
+      <button id="toggleFit" class="mini">Fit Width</button>
+    </nav>
+  </header>
+
+  <main class="reader-page">
+    <section class="reader-title">
+      <h1 id="mangaTitle">Loading...</h1>
+      <p id="chapterTitle"></p>
+    </section>
+
+    <section id="pages" class="pages fit-width"></section>
+
+    <section class="reader-controls-bottom">
+      <button id="bottomPrev" class="button">Previous Chapter</button>
+      <a class="button ghost" href="index.html">Back to Library</a>
+      <button id="bottomNext" class="button primary">Next Chapter</button>
+    </section>
+  </main>
+
+  <script src="js/db.js"></script>
+  <script src="js/content.js"></script>
+  <script src="js/reader.js"></script>
+</body>
+</html>

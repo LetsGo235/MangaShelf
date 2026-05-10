@@ -4,7 +4,7 @@
     {
       "id": "duo-days",
       "title": "Duo Days",
-      "author": "Your Studio",
+      "author": "St☆rlight Studios",
       "status": "Demo",
       "description": "A sample manga loaded directly from GitHub folders. Replace this with your real series.",
       "cover": "content/duo-days/cover.svg",
@@ -13,7 +13,7 @@
           "id": "chapter-1",
           "title": "Chapter 1 - New Roommates",
           "pages": [
-            "content/duo-days/chapter-1/001.png"
+            "content/duo-days/chapter-1/001.jpg"
           ]
         }
       ]

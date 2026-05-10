@@ -111,6 +111,20 @@
             "content/duo-days/chapter-11/007.jpg",
             "content/duo-days/chapter-11/008.jpg"
           ]
+        },
+        {
+          "id": "chapter-12",
+          "title": "Chapter 12 - The Gala",
+          "pages": [
+            "content/duo-days/chapter-12/001.jpg",
+            "content/duo-days/chapter-12/002.jpg",
+            "content/duo-days/chapter-12/003.jpg",
+            "content/duo-days/chapter-12/004.jpg",
+            "content/duo-days/chapter-12/005.jpg",
+            "content/duo-days/chapter-12/006.jpg",
+            "content/duo-days/chapter-12/007.jpg",
+            "content/duo-days/chapter-12/008.jpg"
+          ]
         }
       ]
     }

@@ -127,6 +127,26 @@
           ]
         }
       ]
+    },
+    {
+      "id": "duo-force_zero-signal",
+      "title": "Duo Force: ZERO SIGNAL",
+      "author": "idk yet",
+      "status": "One Shot (Maybe)",
+      "description": "A sick manga that was made with ai in the beginnning, might get a handdrawn remake, idk.",
+      "cover": "content/duo-days/cover.jpg",
+      "chapters": [
+        {
+          "id": "chapter-1",
+          "title": "CHAPTER 1 - THE STATIC BETWEEN US",
+          "pages": [
+            "content/duo-force_zero-signal/chapter-1/001.jpg",
+            "content/duo-force_zero-signal/chapter-1/002.jpg",
+            "content/duo-force_zero-signal/chapter-1/003.jpg",
+            "content/duo-force_zero-signal/chapter-1/004.jpg"
+          ]
+        }
+      ]
     }
   ]
 }

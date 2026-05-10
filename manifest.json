@@ -11,11 +11,9 @@
       "chapters": [
         {
           "id": "chapter-1",
-          "title": "Chapter 1 - Demo Upload",
+          "title": "Chapter 1 - New Roommates",
           "pages": [
-            "content/duo-days/chapter-1/001.svg",
-            "content/duo-days/chapter-1/002.svg",
-            "content/duo-days/chapter-1/003.svg"
+            "content/duo-days/chapter-1/001.png"
           ]
         }
       ]

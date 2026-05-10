@@ -125,6 +125,20 @@
             "content/duo-days/chapter-12/007.jpg",
             "content/duo-days/chapter-12/008.jpg"
           ]
+        },
+        {
+          "id": "chapter-13",
+          "title": "Chapter 13 - Stay A Little Longer",
+          "pages": [
+            "content/duo-days/chapter-13/001.jpg",
+            "content/duo-days/chapter-13/002.jpg",
+            "content/duo-days/chapter-13/003.jpg",
+            "content/duo-days/chapter-13/004.jpg",
+            "content/duo-days/chapter-13/005.jpg",
+            "content/duo-days/chapter-13/006.jpg",
+            "content/duo-days/chapter-13/007.jpg",
+            "content/duo-days/chapter-13/008.jpg"
+          ]
         }
       ]
     },

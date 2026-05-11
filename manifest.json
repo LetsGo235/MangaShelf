@@ -182,6 +182,21 @@
             "content/duo-force_zero-signal/chapter-2/007.jpg",
             "content/duo-force_zero-signal/chapter-2/008.jpg"
           ]
+        },
+        {
+          "id": "chapter-3",
+          "title": "CHAPTER 3 - THE BETWEEN",
+          "pages": [
+            "content/duo-force_zero-signal/chapter-3/001.jpg",
+            "content/duo-force_zero-signal/chapter-3/002.jpg",
+            "content/duo-force_zero-signal/chapter-3/003.jpg",
+            "content/duo-force_zero-signal/chapter-3/004.jpg",
+            "content/duo-force_zero-signal/chapter-3/005.jpg",
+            "content/duo-force_zero-signal/chapter-3/006.jpg",
+            "content/duo-force_zero-signal/chapter-3/007.jpg",
+            "content/duo-force_zero-signal/chapter-3/008.jpg",
+            "content/duo-force_zero-signal/chapter-3/009.jpg"
+          ]
         }
       ]
     }

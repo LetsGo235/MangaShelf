@@ -243,6 +243,21 @@
             "content/duo-force_zero-signal/chapter-3/008.jpg",
             "content/duo-force_zero-signal/chapter-3/009.jpg"
           ]
+        },
+        {
+          "id": "chapter-4",
+          "title": "CHAPTER 4 - THE LAW",
+          "pages": [
+            "content/duo-force_zero-signal/chapter-4/001.jpg",
+            "content/duo-force_zero-signal/chapter-4/002.jpg",
+            "content/duo-force_zero-signal/chapter-4/003.jpg",
+            "content/duo-force_zero-signal/chapter-4/004.jpg",
+            "content/duo-force_zero-signal/chapter-4/005.jpg",
+            "content/duo-force_zero-signal/chapter-4/006.jpg",
+            "content/duo-force_zero-signal/chapter-4/007.jpg",
+            "content/duo-force_zero-signal/chapter-4/008.jpg",
+            "content/duo-force_zero-signal/chapter-4/009.jpg"
+          ]
         }
       ]
     },

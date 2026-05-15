@@ -260,6 +260,20 @@
             "content/SRFBTSHTLAQL/chapter-2/009.jpg",
             "content/SRFBTSHTLAQL/chapter-2/010.jpg"
           ]
+        },
+        {
+          "id": "chapter-3",
+          "title": "CHAPTER 3 - Extra Soy Sauce",
+          "pages": [
+            "content/SRFBTSHTLAQL/chapter-3/001.jpg",
+            "content/SRFBTSHTLAQL/chapter-3/002.jpg",
+            "content/SRFBTSHTLAQL/chapter-3/003.jpg",
+            "content/SRFBTSHTLAQL/chapter-3/004.jpg",
+            "content/SRFBTSHTLAQL/chapter-3/005.jpg",
+            "content/SRFBTSHTLAQL/chapter-3/006.jpg",
+            "content/SRFBTSHTLAQL/chapter-3/007.jpg",
+            "content/SRFBTSHTLAQL/chapter-3/008.jpg"
+          ]
         }
       ]
     }

@@ -378,6 +378,20 @@
             "content/SRFBTSHTLAQL/chapter-3/007.jpg",
             "content/SRFBTSHTLAQL/chapter-3/008.jpg"
           ]
+        },
+	{
+          "id": "chapter-4",
+          "title": "CHAPTER 4 - Triple A Trouble",
+          "pages": [
+            "content/SRFBTSHTLAQL/chapter-4/001.jpg",
+            "content/SRFBTSHTLAQL/chapter-4/002.jpg",
+            "content/SRFBTSHTLAQL/chapter-4/003.jpg",
+            "content/SRFBTSHTLAQL/chapter-4/004.jpg",
+            "content/SRFBTSHTLAQL/chapter-4/005.jpg",
+            "content/SRFBTSHTLAQL/chapter-4/006.jpg",
+            "content/SRFBTSHTLAQL/chapter-4/007.jpg",
+            "content/SRFBTSHTLAQL/chapter-4/008.jpg"
+          ]
         }
       ]
     }

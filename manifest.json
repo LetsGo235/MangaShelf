@@ -339,7 +339,7 @@
       "id": "SRFBTSHTLAQL",
       "title": "SHANOUK RETIRED FROM BEING THE STRONGEST HITMAN TO LIVE A QUIET LIFE, BUT THE UNDERWORLD KEEPS SHOWING UP AT HIS HOUSE",
       "author": "idk yet",
-      "status": "One Shot (Maybe)",
+      "status": "NOT a one shot",
       "description": "A sick manga that was made with ai in the beginnning, might get a handdrawn remake, idk.",
       "cover": "content/SRFBTSHTLAQL/cover.jpg",
       "chapters": [
@@ -391,6 +391,46 @@
             "content/SRFBTSHTLAQL/chapter-4/006.jpg",
             "content/SRFBTSHTLAQL/chapter-4/007.jpg",
             "content/SRFBTSHTLAQL/chapter-4/008.jpg"
+          ]
+        }
+      ]
+    },
+{
+      "id": "jjka",
+      "title": "JUJUTSU KAISEN: AFTERMATH",
+      "author": "idk yet",
+      "status": "One Shot (Maybe)",
+      "description": "A sick manga that was made with ai in the beginnning, might get a handdrawn remake, idk.",
+      "cover": "content/jjka/cover.jpg",
+      "chapters": [
+        {
+          "id": "chapter-1",
+          "title": "CHAPTER 1 - The Things We Left Behind",
+          "pages": [
+            "content/jjka/chapter-1/001.jpg",
+            "content/jjka/chapter-1/002.jpg",
+            "content/jjka/chapter-1/003.jpg",
+            "content/jjka/chapter-1/004.jpg",
+	    "content/jjka/chapter-1/005.jpg",
+	    "content/jjka/chapter-1/006.jpg",
+"content/jjka/chapter-1/007.jpg",
+"content/jjka/chapter-1/008.jpg",
+"content/jjka/chapter-1/009.jpg",
+"content/jjka/chapter-1/010.jpg",
+"content/jjka/chapter-1/011.jpg",
+"content/jjka/chapter-1/012.jpg",
+"content/jjka/chapter-1/013.jpg",
+"content/jjka/chapter-1/014.jpg",
+"content/jjka/chapter-1/015.jpg",
+"content/jjka/chapter-1/016.jpg",
+"content/jjka/chapter-1/017.jpg",
+"content/jjka/chapter-1/018.jpg",
+"content/jjka/chapter-1/019.jpg",
+"content/jjka/chapter-1/020.jpg",
+"content/jjka/chapter-1/021.jpg",
+"content/jjka/chapter-1/022.jpg",
+"content/jjka/chapter-1/023.jpg",
+"content/jjka/chapter-1/024.jpg"
           ]
         }
       ]
